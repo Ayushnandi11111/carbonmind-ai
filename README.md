@@ -430,3 +430,5 @@ _Every ton of CO₂ reduced brings us closer to a sustainable future._
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:00d9ff,100:0f172a&height=120&section=footer" />
         
 </div>
+
+<!-- auto: tiny readme bump -->
